@@ -93,7 +93,7 @@ function draw() {
       zombie.x = 2300
       zombie.velocityX = 0
       zombie.changeAnimation("dying")
-      zombie.scale=1.5
+      zombie.scale=1.2
       fill("red")
       textSize(22)
       text("Reached Home,Safe from Zombie",2200,20)
